@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PA10 Pin=-11
+Removed Pin From Net: NetName=PA9 Pin=-12
+Removed Pin From Net: NetName=PA8 Pin=-13
+Removed Pin From Net: NetName=PB15 Pin=-14
+Change Component Designator: OldDesignator= NewDesignator=P1
+Change Component Designator: OldDesignator= NewDesignator=P2
+Added Pin To Net: NetName=PA10 Pin=P2-10
+Added Pin To Net: NetName=PA9 Pin=P2-11
+Added Pin To Net: NetName=PA8 Pin=P2-12
+Added Pin To Net: NetName=PB15 Pin=P2-13
+Added Pin To Net: NetName=GND Pin=P2-14
+Added Pin To Net: NetName=LED_IN Pin=LED9-4
+Added Pin To Net: NetName=LED_IN Pin=U2-38
+Added Net: Name=LED_IN
+Added Member To Class: ClassName=HCRT_STM32_Sch Member=Component P1 Header 14
+Added Room: Name=HCRT_STM32_Sch

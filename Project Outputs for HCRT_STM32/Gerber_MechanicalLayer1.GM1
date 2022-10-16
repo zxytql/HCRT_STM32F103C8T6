@@ -1,0 +1,33 @@
+8ebc24da6004435dabba0e82d969f979G04 Layer: TopLayer*
+G04 EasyEDA v6.5.9, 2022-08-01 21:18:00*
+G04 ac5e******************************************aa,10*
+G04 Gerber Generator version 0.2*
+G04 Scale: 100 percent, Rotated: No, Reflected: No *
+G04 Dimensions in millimeters *
+G04 leading zeros omitted , absolute positions ,4 integer and 5 decimal *
+G04*
+G04 #@! TF.GenerationSoftware,Altium Limited,Altium Designer,20.2.6 (244)*
+G04*
+G04 Layer_Color=16711935*
+%FSLAX25Y25*%
+%MOIN*%
+G70*
+G04*
+G04 #@! TF.SameCoordinates,744AB118-50EF-4DE2-90F7-856F24CC491D*
+G04*
+G04*
+G04 #@! TF.FilePolarity,Positive*
+G04*
+G01*
+G75*
+%ADD56C,0.00020*%
+D56*
+X364940Y313878D02*
+G03*
+X364940Y313878I-1378J0D01*
+G01*
+Y291122D02*
+G03*
+X364940Y291122I-1378J0D01*
+G01*
+M02*

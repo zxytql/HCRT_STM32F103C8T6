@@ -1,0 +1,39 @@
+Replace Part C1 0402 10uF (106) 20% 6.3V in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 10uF (106) 20% 6.3V from Miscellaneous Devices LC.IntLib
+Replace Part C2 0402 10uF (106) 20% 6.3V in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 10uF (106) 20% 6.3V from Miscellaneous Devices LC.IntLib
+Replace Part C3 0402 10uF (106) 20% 6.3V in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 10uF (106) 20% 6.3V from Miscellaneous Devices LC.IntLib
+Replace Part C4 0402 10uF (106) 20% 6.3V in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 10uF (106) 20% 6.3V from Miscellaneous Devices LC.IntLib
+Replace Part C5 0402 10uF (106) 20% 6.3V in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 10uF (106) 20% 6.3V from Miscellaneous Devices LC.IntLib
+Replace Part C6 0402 10uF (106) 20% 6.3V in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 10uF (106) 20% 6.3V from Miscellaneous Devices LC.IntLib
+Replace Part C7 0402 100nF (104) 10% 16V in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 100nF (104) 10% 16V from Miscellaneous Devices LC.IntLib
+Replace Part C8 0402 100nF (104) 10% 16V in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 100nF (104) 10% 16V from Miscellaneous Devices LC.IntLib
+Replace Part C9 0402 100nF (104) 10% 16V in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 100nF (104) 10% 16V from Miscellaneous Devices LC.IntLib
+Replace Part C10 0402 100nF (104) 10% 16V in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 100nF (104) 10% 16V from Miscellaneous Devices LC.IntLib
+Replace Part C11 0402 100nF (104) 10% 16V in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 100nF (104) 10% 16V from Miscellaneous Devices LC.IntLib
+Replace Part CN1 HC-1.25-4PWT in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with HC-1.25-4PWT from zxy's_LIB.IntLib
+Replace Part D1 0603 綻腑 in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0603 綻腑 from Miscellaneous Devices LC.IntLib
+Replace Part D2 0603 懦腑 in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0603 懦腑 from Miscellaneous Devices LC.IntLib
+Replace Part D3 0603 懦腑 in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0603 懦腑 from Miscellaneous Devices LC.IntLib
+Replace Part D4 0603 懦腑 in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0603 懦腑 from Miscellaneous Devices LC.IntLib
+Replace Part LED1 WS2812C in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with WS2812C from zxy's_LIB.IntLib
+Replace Part LED2 WS2812C in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with WS2812C from zxy's_LIB.IntLib
+Replace Part LED3 WS2812C in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with WS2812C from zxy's_LIB.IntLib
+Replace Part LED4 WS2812C in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with WS2812C from zxy's_LIB.IntLib
+Replace Part LED5 WS2812C in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with WS2812C from zxy's_LIB.IntLib
+Replace Part LED6 WS2812C in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with WS2812C from zxy's_LIB.IntLib
+Replace Part LED7 WS2812C in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with WS2812C from zxy's_LIB.IntLib
+Replace Part LED8 WS2812C in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with WS2812C from zxy's_LIB.IntLib
+Replace Part LED9 WS2812C in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with WS2812C from zxy's_LIB.IntLib
+Replace Part P1 Header 14 in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with Header 14 from Miscellaneous Connectors.IntLib
+Replace Part P2 Header 14 in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with Header 14 from Miscellaneous Connectors.IntLib
+Replace Part P3 1.25_2P in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 1.25_2P from zxy's_LIB.IntLib
+Replace Part R1 0402 10K次 (1002) 1% in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 10K次 (1002) 1% from Miscellaneous Devices LC.IntLib
+Replace Part R2 0402 100K次 (1003) 1% in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 100K次 (1003) 1% from Miscellaneous Devices LC.IntLib
+Replace Part R3 0402 100K次 (1003) 1% in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 100K次 (1003) 1% from Miscellaneous Devices LC.IntLib
+Replace Part R4 0402 10K次 (1002) 1% in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 10K次 (1002) 1% from Miscellaneous Devices LC.IntLib
+Replace Part R5 0402 10K次 (1002) 1% in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 10K次 (1002) 1% from Miscellaneous Devices LC.IntLib
+Replace Part R6 0402 1K次 (1001) 1% in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 1K次 (1001) 1% from Miscellaneous Devices LC.IntLib
+Replace Part R7 0402 1K次 (1001) 1% in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 1K次 (1001) 1% from Miscellaneous Devices LC.IntLib
+Replace Part R8 0402 1K次 (1001) 1% in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 1K次 (1001) 1% from Miscellaneous Devices LC.IntLib
+Replace Part R9 0402 1K次 (1001) 1% in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with 0402 1K次 (1001) 1% from Miscellaneous Devices LC.IntLib
+Replace Part SW1 K2-1107ST-A4DW-06_C118141 in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with K2-1107ST-A4DW-06_C118141 from zxy's_LIB.IntLib
+Replace Part U1 XC6210B332MR in D:\1DATA\AD\HCRT_STM32\HCRT_STM32_Sch.SchDoc with XC6210B332MR from zxy's_LIB.IntLib

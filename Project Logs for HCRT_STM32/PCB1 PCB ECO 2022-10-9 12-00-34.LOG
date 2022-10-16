@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VBUS Pin=LED6-1
+Added Member To Class: ClassName=HCRT_STM32_Sch Member=Component LED1 WS2812C
+Added Member To Class: ClassName=HCRT_STM32_Sch Member=Component LED6 WS2812C
+Added Member To Class: ClassName=HCRT_STM32_Sch Member=Component LED7 WS2812C
+Added Member To Class: ClassName=HCRT_STM32_Sch Member=Component LED8 WS2812C
+Added Room: Name=HCRT_STM32_Sch

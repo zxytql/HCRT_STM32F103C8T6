@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VBUS Pin=LED1-1
+Removed Pin From Net: NetName=VBUS Pin=LED2-1
+Removed Pin From Net: NetName=VBUS Pin=LED3-1
+Added Pin To Net: NetName=5V Pin=LED1-1
+Added Pin To Net: NetName=5V Pin=LED2-1
+Added Pin To Net: NetName=5V Pin=LED3-1
+Added Room: Name=HCRT_STM32_Sch

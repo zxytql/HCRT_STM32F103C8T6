@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED9
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED8
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED7
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED6
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED7 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED8 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED9 NewDesignator=LED1
+Change Net Name : Old Net Name=NetLED1_4 New Net Name=NetLED8_2
+Change Net Name : Old Net Name=NetLED2_4 New Net Name=NetLED7_2
+Change Net Name : Old Net Name=NetLED3_4 New Net Name=NetLED6_2
+Change Net Name : Old Net Name=NetLED4_4 New Net Name=NetLED5_2
+Change Net Name : Old Net Name=NetLED5_4 New Net Name=NetLED4_2
+Change Net Name : Old Net Name=NetLED6_4 New Net Name=NetLED3_2
+Change Net Name : Old Net Name=NetLED7_4 New Net Name=NetLED2_2
+Change Net Name : Old Net Name=NetLED8_4 New Net Name=NetLED1_2
+Added Member To Class: ClassName=HCRT_STM32_Sch Member=Component P2 Header 14
+Added Room: Name=HCRT_STM32_Sch
